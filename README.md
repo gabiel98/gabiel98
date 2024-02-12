@@ -7,7 +7,7 @@
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,c,powershell)](https://skillicons.dev)
+<img href="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
 ### Tools
 
