@@ -7,8 +7,9 @@
 
 
 ### Skills
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,c,powershell)](https://skillicons.dev)
 
-### 
+### Tools
 
 
 
