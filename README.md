@@ -4,7 +4,7 @@
 
   Me chamo Gabriel Peixto, tenho 22 anos e estou me especializando em Cibersegurança e Frontend. Faço faculdade de Ciência da Computação na Universidade Federal de Roraima (UFRR).
 
-
+<img src="https://pin.it/26R6CT4gQ" width="45%" align="right" />
 
 ### Skills
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
