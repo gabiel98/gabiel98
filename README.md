@@ -29,4 +29,10 @@
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabiel98/gabiel98/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabiel98/gabiel98/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/gabiel98/gabiel98/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1B1A55,100:535C91&section=footer&reversal=false"/>
