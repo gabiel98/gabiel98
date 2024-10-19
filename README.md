@@ -2,7 +2,7 @@
 
 ### Olá, Bem vindo ao meu perfil👋
 
-  Me chamo Gabriel Peixto, tenho 22 anos e estou me especializando em Cibersegurança e Frontend. Faço faculdade de Ciência da Computação na Universidade Federal de Roraima (UFRR).
+  Me chamo Gabriel Peixto, tenho 23 anos e estou me especializando em Cibersegurança e Frontend. Faço faculdade de Ciência da Computação na Universidade Federal de Roraima (UFRR).
 
 <img src="gengar.gif" width="45%" align="right" />
 
